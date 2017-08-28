@@ -1,0 +1,16 @@
+# Contents
+## What are citation managers and why should I care?
+  * Keep track of your sources
+  * Automate your bibliographies
+## About Zotero
+  * RRCHNM
+  * Updates
+## Preparing for installation
+  * Setting up your scholarly workspace
+  * Planning for multiple devices
+  * Storage and backups
+## Getting Started
+  * Configure
+  * Collect
+  * Cite
+  * Collaborate
