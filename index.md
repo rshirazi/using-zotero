@@ -4,4 +4,4 @@ Materials prepared for an introductory workshop on using Zotero 5.0 for citation
 
 *This workshop will help you install, configure, and get started with managing your citations using Zotero.*
 
-* [Installation](using-zotero/installation.md) 
+* [Installation](installation.md) 
