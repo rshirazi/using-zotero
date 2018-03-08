@@ -4,3 +4,4 @@
   ![zotero download](/using-zotero/images/zotero-downloads.png){:class="img-responsive"}
 3. Install the Zotero connector for Chrome or Firefox, also on [zotero.org/download](https://www.zotero.org/download). 
 
+
